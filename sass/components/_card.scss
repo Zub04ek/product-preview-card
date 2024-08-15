@@ -22,6 +22,7 @@
     & img {
       border-top-left-radius: 0.75rem;
       border-top-right-radius: 0.75rem;
+      filter: brightness(0.85);
       @media screen and (min-width: $tablet) {
         border-top-right-radius: 0rem;
         border-bottom-left-radius: 0.75rem;
